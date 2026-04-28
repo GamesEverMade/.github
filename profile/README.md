@@ -1,6 +1,6 @@
 # Games Ever Made
 
-Games Ever Made is a passionate joint venture founded by four lifelong friends from the vibrant heart of Brazil. United by creativity and a love for games, we aim to bring unique gaming experiences to players around the world.
+Games Ever Made is founded by four lifelong friends from Brazil. United by creativity and a love for games, we aim to bring unique gaming experiences to players around the world.
 
 ## Mission
 
